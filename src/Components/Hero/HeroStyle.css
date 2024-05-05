@@ -1,0 +1,22 @@
+.number{
+    color: #FFFFFF;
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+color: #FFFFFF;
+
+}
+.h1{
+    color: #fff;
+
+    text-shadow: 3px 3px 20px #088fc1,
+        -2px 1px 30px #ff99cc;
+}
+img{
+    box-shadow: rgb(17, 111, 100) 0px 20px 30px -10px;}
+.nh1{
+    margin-top: 40px;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 20px #088fc1,
+    -2px 1px 30px #ff99cc;
+}
